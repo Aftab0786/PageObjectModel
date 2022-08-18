@@ -1,5 +1,6 @@
 package com.fb.qa.testcases;
 
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -11,12 +12,14 @@ import com.fb.qa.base.TestBase;
 public class SignUpPageTest extends TestBase {
 	SignUpPage signUpPage;
 	ContinuePage continuePage;
+	Logger log = Logger.getLogger(SignUpPageTest.class);
 	public SignUpPageTest() {
 		super();
 	}
 	
 	@BeforeMethod
 	public void setUp() {
+		log.info("* Starting test cases execution  for signup page**");
 		initialization();
 		signUpPage = new SignUpPage();
 		

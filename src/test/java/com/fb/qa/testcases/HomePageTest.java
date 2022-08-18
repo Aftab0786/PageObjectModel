@@ -25,11 +25,11 @@ public class HomePageTest extends TestBase {
 		friendsPage = new FriendsPage();
 	}
 	
-	@Test(priority=1)
-	public void verifyHomePageTitleTest() {
-		String homePageTitle = homePage.verifyHomePageTitle();
-		Assert.assertEquals(homePageTitle, "Facebook – log in or sign up");
-	}
+//	@Test(priority=1)
+//	public void verifyHomePageTitleTest() {
+//		String homePageTitle = homePage.verifyHomePageTitle();
+//		Assert.assertEquals(homePageTitle, "Facebook – log in or sign up");
+//	}
 	
 	@Test(priority=2)
 	public void verifyFriendsLinkTest() {
