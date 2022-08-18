@@ -1,5 +1,6 @@
 package com.fb.qa.testcases;
 
+import org.apache.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -13,12 +14,14 @@ public class HomePageTest extends TestBase {
 	LoginPage loginPage;
 	HomePage homePage;
 	FriendsPage friendsPage;
+	Logger log = Logger.getLogger(HomePageTest.class);
 	public HomePageTest() {
 		super();
 	}
 	
 	@BeforeMethod
 	public void setUp() {
+		log.info("* Starting test cases execution home page **");
 		initialization();
 		loginPage = new LoginPage();
 		homePage = loginPage.login(prop.getProperty("username"), prop.getProperty("password"));
