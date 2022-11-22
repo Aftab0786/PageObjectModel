@@ -29,10 +29,11 @@ public class HomePageTest extends TestBase {
 	}
 	
 //	@Test(priority=1)
-//	public void verifyHomePageTitleTest() {
+//	public void verifyHomePageTitleTest() throws InterruptedException {
 //		String homePageTitle = homePage.verifyHomePageTitle();
-//		Assert.assertEquals(homePageTitle, "Facebook – log in or sign up");
-//	}
+//		Assert.assertEquals(homePageTitle, "Facebook");
+//		Thread.sleep(2000);
+//}
 	
 	@Test(priority=2)
 	public void verifyFriendsLinkTest() {

@@ -43,4 +43,110 @@
   2022-08-18 16:39:30 INFO  LoginPageTest:23 - * Starting test cases execution  **
   2022-08-18 16:39:39 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
   2022-08-18 16:40:12 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-18 22:19:44 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-18 22:24:05 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 07:14:02 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 08:49:01 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 08:49:12 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 08:49:21 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 08:49:27 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 08:49:34 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 08:49:45 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 08:50:21 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 08:50:48 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:32:09 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:33:17 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:37:13 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:38:13 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 09:38:22 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 09:38:32 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:38:39 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:38:47 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:38:55 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 09:39:18 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 09:39:36 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:39:53 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:43:32 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:44:20 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:44:36 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:55:15 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 09:55:23 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 09:55:31 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:55:37 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:55:45 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 09:55:56 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 09:56:23 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 09:56:49 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:57:13 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 09:59:28 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:00:23 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:00:31 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:00:41 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:00:47 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:00:55 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:01:05 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:01:25 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:01:49 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:02:16 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:10:20 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:10:29 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:10:39 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:10:45 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:10:53 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:11:04 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:11:28 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:11:50 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:12:10 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:14:43 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:20:10 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:20:18 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 10:20:25 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:20:30 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:20:35 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 10:20:43 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:21:03 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 10:21:26 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:21:58 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 10:23:44 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:42:50 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 14:42:57 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 14:43:13 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:43:20 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:43:34 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:43:43 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:44:11 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:44:51 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 14:45:26 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 14:49:11 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:50:21 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:51:08 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:56:09 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:58:49 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 14:58:55 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 14:59:04 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:59:08 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:59:14 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 14:59:21 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 14:59:44 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 15:02:15 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 15:07:05 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 15:07:13 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 15:07:19 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 15:07:24 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 15:07:29 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 15:07:36 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 15:08:06 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 15:08:38 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 15:11:26 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-08-19 15:11:39 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 15:12:17 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 22:04:01 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 22:04:09 INFO  SignUpPageTest:22 - * Starting test cases execution  for signup page**
+  2022-08-19 22:04:21 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 22:04:27 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 22:04:36 INFO  LoginPageTest:23 - * Starting test cases execution  **
+  2022-08-19 22:04:47 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 22:05:19 INFO  ProfilePageTest:24 - * Starting test cases execution for profile page  **
+  2022-08-19 22:05:49 INFO  HomePageTest:24 - * Starting test cases execution home page **
+  2022-11-21 11:46:41 INFO  HomePageTest:24 - * Starting test cases execution home page **
   

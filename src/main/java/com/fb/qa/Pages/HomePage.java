@@ -10,7 +10,7 @@ public class HomePage extends TestBase {
 	@FindBy(xpath = "//span[contains(text(),'Hell Punk')]")
 	WebElement profilePage;
 
-	@FindBy(xpath = "//a[@aria-label='Friends']//span[@class='l9j0dhe7']//*[name()='svg']")
+	@FindBy(xpath = "//a[@aria-label='Friends']")
 	WebElement friendsLink;
 
 	// Initializing the Page Objects:
